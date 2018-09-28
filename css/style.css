@@ -249,7 +249,7 @@ a:hover {
   .skill .skill-item {
     opacity: 0; }
     .skill .skill-item .skill-title {
-      font-size: 1.5rem; }
+      font-size: 2rem; }
     .skill .skill-item .img-skill {
       fill: #555555; }
 
@@ -356,8 +356,14 @@ figure:hover figcaption {
   .about-para {
     font-size: 1.2rem; }
 
-  .skill-p {
-    font-size: 1.2rem; }
+  /* =====================
+    skill
+  ===================== */
+  .skill .skill-item .skill-title {
+    font-size: 2.5rem; }
+  .skill .skill-item .skill-p {
+    font-size: 1.2rem;
+    line-height: 2.2rem; }
 
   /* =====================
     work

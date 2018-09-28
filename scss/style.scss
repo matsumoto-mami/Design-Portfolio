@@ -302,7 +302,7 @@ margin: 1rem 0;
   .skill-item{
     opacity: 0;
     .skill-title{
-      font-size: 1.5rem;
+      font-size: 2rem;
     }
     .img-skill{
       fill: #555555;
@@ -461,9 +461,24 @@ html {
   font-size: 1.2rem;
 }
 
-.skill-p{
-  font-size:1.2rem;
+/* =====================
+  skill
+===================== */
+.skill{ 
+  .skill-item{
+    .skill-title{
+      font-size: 2.5rem;
+    }
+    .skill-p{
+   font-size:1.2rem;
+   line-height:2.2rem;
+    }
+  }
 }
+
+
+
+
 
 /* =====================
   work

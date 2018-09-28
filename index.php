@@ -166,7 +166,7 @@
 
 					<div class="row col-12 mx-auto">
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-4 mb-sm-5">
+							<div class="skill-title text-center mb-5 mb-sm-5">
 								Design
 							</div>
 							<div class="skill-icon text-center mb-4 mb-sm-5">
@@ -182,7 +182,7 @@
 
 
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-4 mt-md-0 mt-5 mb-sm-5">
+							<div class="skill-title text-center mb-5 mt-md-0 mt-5 mb-sm-5">
 								Cording
 							</div>
 							<div class="skill-icon text-center mb-4 mb-sm-5">
@@ -195,7 +195,7 @@
 						</div><!-- //skill-item -->
 
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-4 mb-sm-5 mt-md-0 mt-5">
+							<div class="skill-title text-center mb-5 mb-sm-5 mt-md-0 mt-5">
 								Photo&nbsp;&amp;&nbsp;Video
 							</div>
 							<div class="skill-icon text-center mb-4 mb-sm-5">
