@@ -734,6 +734,43 @@
 <!-- original js -->
 	<script src="js/script.js"></script>
 
+	<script>
+			$(function() {   //ロード中はコンテンツの高さをページの高さに合わせる
+		    var h = $(window).height();
+		    $('#main-contents').css('display','none');
+		    $('#loader-bg ,#loading').height(h).css('display','block');
+		});
+
+
+		//ローダーJquery
+		$(window).on('load',function(){  // ローディング画面をフェードアウトさせる
+		    $(function() { 
+		        $("#loading").fadeOut();
+		    });
+		});
+		     
+
+
+		$(window).on('load',function() {  //全ての読み込みが完了したら実行する
+		    $('#loader-bg').delay(900).fadeOut(800);
+		    $('#loading').delay(600).fadeOut(300);
+		    $('#main-contents').css('display', 'block');
+		    svgAnimation();
+		});
+
+		// SVGアニメーション
+
+		function svgAnimation(){
+			new Vivus('svg-mask', {
+			type: 'scenario-sync',
+			duration: 13, 
+			forceRender: false ,
+			animTimingFunction:Vivus.EASE_IN
+			});
+		}
+
+	</script>
+
 <!-- vivus JS -->
 	 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/vivus@latest/dist/vivus.min.js"></script>
 
