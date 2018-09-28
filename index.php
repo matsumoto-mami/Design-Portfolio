@@ -450,7 +450,7 @@
 
 		<img src="images/photography/photography-desktop.png" alt="photography" class="w-100 mb-1">
 		<img src="images/photography/photography-mobile.png" alt="photography" class="w-100 mb-1">
-		<img src="images/photography/photography.png" alt="photography" class="w-100">
+		<img src="images/photography/photography.jpg" alt="photography" class="w-100">
 
 	</div><!-- //modal1 -->
 
@@ -507,7 +507,7 @@
 
 		<img src="images/rootbox/rootbox-desktop.png" alt="rootbox" class="w-100 mb-1">
 		<img src="images/rootbox/rootbox-mobile.png" alt="rootbox" class="w-100 mb-1">
-		<img src="images/rootbox/rootbox.png" alt="rootbox" class="w-100">
+		<img src="images/rootbox/rootbox.jpg" alt="rootbox" class="w-100">
 
 	</div><!-- //modal2 -->
 
@@ -610,7 +610,7 @@
 
 		<img src="images/polepole/polepole-desktop.png" alt="polepole" class="w-100 mb-1">
 		<img src="images/polepole/polepole-mobile.png" alt="polepole" class="w-100 mb-1">
-		<img src="images/polepole/polepole.png" alt="polepole" class="w-100">
+		<img src="images/polepole/polepole.jpg" alt="polepole" class="w-100">
 
 	</div><!-- //modal4 -->
 
