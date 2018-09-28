@@ -250,6 +250,9 @@ a:hover {
     opacity: 0; }
     .skill .skill-item .skill-title {
       font-size: 2rem; }
+    .skill .skill-item .skill-p {
+      font-size: 0.9rem;
+      line-height: 1.6rem; }
     .skill .skill-item .img-skill {
       fill: #555555; }
 
