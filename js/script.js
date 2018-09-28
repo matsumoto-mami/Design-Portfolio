@@ -1,20 +1,17 @@
 // JavaScript Document
 
-$(function() {   //ロード中はコンテンツの高さをページの高さに合わせる
-    var h = $(window).height();
-    $('#main-contents').css('display','none');
-    $('#loader-bg ,#loading').height(h).css('display','block');
-});
-
-
 //ローダーJquery
 $(window).on('load',function(){  // ローディング画面をフェードアウトさせる
     $(function() { 
         $("#loading").fadeOut();
     });
 });
-     
 
+$(function() {   //ロード中はコンテンツの高さをページの高さに合わせる
+    var h = $(window).height();
+    $('#main-contents').css('display','none');
+    $('#loader-bg ,#loading').height(h).css('display','block');
+});
 
 $(window).on('load',function() {  //全ての読み込みが完了したら実行する
     $('#loader-bg').delay(900).fadeOut(800);
@@ -22,6 +19,18 @@ $(window).on('load',function() {  //全ての読み込みが完了したら実�
     $('#main-contents').css('display', 'block');
     svgAnimation();
 });
+
+//5秒で強制的にロード画面を非表示
+$(function(){
+	setTimeout('stopload()',5000);
+});
+
+function stopload(){
+	$('#main-contents').css('display', 'block');
+	$('#loader-bg').delay(900).fadeOut(800);
+    $('#loading').delay(600).fadeOut(300);
+}
+
 
 // SVGアニメーション
 
