@@ -731,7 +731,8 @@
 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-
+<!-- original js -->
+	<script src="js/script.js"></script>
 
 <!-- vivus JS -->
 	 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/vivus@latest/dist/vivus.min.js"></script>
@@ -746,8 +747,7 @@
 <!-- modaal JS -->
 	<script src="js/modaal.js"></script>
     
- <!-- original js -->
-	<script src="js/script.js"></script>
+ 
 </body>
 
 </html>
