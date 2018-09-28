@@ -1,50 +1,42 @@
 // JavaScript Document
 
 //ローダーJquery
-$(window).on('load',function(){  // ローディング画面をフェードアウトさせる
-    $(function() { 
-        $("#loading").fadeOut();
-    });
-});
+	$(window).on('load',function(){  // ローディング画面をフェードアウトさせる
+	    $(function() { 
+	        $("#loading").fadeOut();
+	    });
+	});
 
-$(function() {   //ロード中はコンテンツの高さをページの高さに合わせる
-    var h = $(window).height();
-    $('#main-contents').css('display','none');
-    $('#loader-bg ,#loading').height(h).css('display','block');
-});
-
-$(window).on('load',function() {  //全ての読み込みが完了したら実行する
-    $('#loader-bg').delay(900).fadeOut(800);
-    $('#loading').delay(600).fadeOut(300);
-    $('#main-contents').css('display', 'block');
-    svgAnimation();
-});
+	$(window).on('load',function() {  //全ての読み込みが完了したら実行する
+	    $('#loader-bg').delay(900).fadeOut(800);
+	    $('#loading').delay(600).fadeOut(300);
+	    $('#main-contents').css('display', 'block');
+	    svgAnimation();
+	});
 
 //5秒で強制的にロード画面を非表示
-$(function(){
-	setTimeout('stopload()',5000);
-});
+	$(function(){
+		setTimeout('stopload()',5000);
+	});
 
-function stopload(){
-	$('#main-contents').css('display', 'block');
-	$('#loader-bg').delay(900).fadeOut(800);
-    $('#loading').delay(600).fadeOut(300);
-}
-
+	function stopload(){
+		$('#main-contents').css('display', 'block');
+		$('#loader-bg').delay(900).fadeOut(800);
+	    $('#loading').delay(600).fadeOut(300);
+	}
 
 // SVGアニメーション
 
-function svgAnimation(){
-	new Vivus('svg-mask', {
-	type: 'scenario-sync',
-	duration: 13, 
-	forceRender: false ,
-	animTimingFunction:Vivus.EASE_IN
-	});
-}
+	function svgAnimation(){
+		new Vivus('svg-mask', {
+		type: 'scenario-sync',
+		duration: 13, 
+		forceRender: false ,
+		animTimingFunction:Vivus.EASE_IN
+		});
+	}
 
-$(function(){
-
+	$(function(){
 //クリックしたらゆっくり移動するJquery
 //aに#が付いているものに対して、クリックしたらgoTargetを代入する。
 	var headerH = 0;
@@ -71,7 +63,7 @@ $(function(){
 		idPos = [];
 		for(i = 0;i < 5;i++){
 			var n = i+1;
-			var idName = $(".menu-item:nth-child("+n+") a").attr("href");
+			var idName = $(".menuList__menuItem:nth-child("+n+") a").attr("href");
 			idPos.push($(idName).offset().top);
 		}			
 	}
@@ -79,8 +71,8 @@ $(function(){
 //はじめはHOMEにカレント表示
 	$(window).on("load",firstClass);
 		function firstClass(){
-			$(".menu-item").removeClass("selected");
-			$(".menu-item-first").addClass("selected");
+			$(".menuList__menuItem").removeClass("selected");
+			$(".menuList__menuItemFirst").addClass("selected");
 		}
 //スクロールごとにカレント表示変える
 		$(window).scroll(btnApp);
@@ -92,16 +84,16 @@ $(function(){
 			for(i = 0;i < 5;i++){
 				if(winscrl >= (idPos[i]-100)){
 					var n = i+1;
-					$(".menu-item").removeClass("selected");
-					$(".menu-item:nth-child("+n+")").addClass("selected");
+					$(".menuList__menuItem").removeClass("selected");
+					$(".menuList__menuItem:nth-child("+n+")").addClass("selected");
 				}
 			}
 
 //#aboutまでスクロールすると、ヘッダーが半透明になる。
 		if(winscrl > scrollHeader){
-			$("header").addClass("header-color");
+			$(".pageheader").addClass("pageheader_color");
 		}else{
-			$("header").removeClass("header-color");
+			$(".pageheader").removeClass("pageheader_color");
 		}
 	}
 

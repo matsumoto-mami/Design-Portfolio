@@ -2,27 +2,21 @@
 /* CSS Document */
 /* ALL*/
 
-
-
 html {
-  
-
   /*デフォルトのfont-size:16pxを62.5%し、最低10pxと定義。
   viewportによりサイズを追加で可変させる。
   0.25vwの場合、viewportのW800pxの場合で2px(800*0.25/100=2px)
   これで、1remの場合12px/2remの場合24pxとなる。*/
   font-size: calc(62.5% + 0.50vw);
-
   line-height: 1.5;
 }
 
-html * {
+* {
   box-sizing : border-box;
 }
 
 body {
   margin           : 0;
-  /* background-color : #ffffff; */
   font-family: 'Poiret One', cursive, 'Noto Sans JP';
   font-weight: 100;
   background-color: #ffffff;
@@ -36,16 +30,11 @@ body {
   z-index: 9999;
 }
 
-
 .wrapper{
   margin           : 0 auto;
   max-width        : 100%;
   /* background-color : #fff; */
   }
-
-a:active{
-  color: red;
-}
 
 a:hover {
 text-decoration: none;
@@ -72,12 +61,6 @@ text-decoration: none;
     z-index: 1;
  }
 
-
-
-
-
-
-
 /* =====================
   navi
 ===================== */
@@ -88,84 +71,75 @@ text-decoration: none;
   max-height : 6rem;
   transition : max-height .5s, opacity .5s, background .5s;
   overflow   : hidden;
+    // jquery addClass用
+    &_color{
+      background-color:rgba(255,255,255,0.8);
+      transition: all 0.5s;
+    }
 } 
 
-.header-color{
-  background-color:rgba(255,255,255,0.8);
-  transition: all 0.5s;
-}
 
-  
-.menu-list{
+.menuList{
   padding         : 0;
   margin          : 0;
   display         : flex;
   justify-content : space-between;
   list-style      : none;
-}
-
-.menu-item{
-  margin         : 1.5rem 0;
-}
-.menu-link{
-  display         : block;
-  padding : 0.5rem;
-  position        : relative;
-  color           : #2a2a2a;
-  font-size       : 1.2rem;
-  text-align      : center;
-  transition      : all .5s;
-  text-decoration : none;
-  background-color: transparent;
-  border: none;
-} 
-
-.menu-link:hover {
-text-decoration: none;
-color: #2a2a2a;
-}
+    &__menuItem{
+    margin         : 1.5rem 0;
+      &__menuLink{
+      display         : block;
+      padding : 0.5rem;
+      position        : relative;
+      color           : #2a2a2a;
+      font-size       : 1.2rem;
+      text-align      : center;
+      transition      : all .5s;
+      text-decoration : none;
+      background-color: transparent;
+      border: none;
+        &:hover {
+        text-decoration: none;
+        color: #2a2a2a;
+        }
+        &::before,&::after {
+        position: absolute;
+        z-index: 2;
+        content: '';
+        width: 0;
+        height: 0;
+        border: 1px solid transparent;
+        }
+        &::before {
+        top: 0;
+        left: 0;
+        }
+        &::after {
+        bottom: 0;
+        right: 0;
+        }
+      } //Link
+    } //Item
+  } //List
 
 
 /* カレント表示 */
 
-.menu-link::before,
-.menu-link::after {
-  position: absolute;
-  z-index: 2;
-  content: '';
-  width: 0;
-  height: 0;
-  border: 1px solid transparent;
-}
-.menu-link::before {
-  top: 0;
-  left: 0;
-}
-.menu-link::after {
-  bottom: 0;
-  right: 0;
-}
-
-.selected .menu-link::before,
-.selected .menu-link::after {
+.selected .menuList__menuItem__menuLink::before,
+.selected .menuList__menuItem__menuLink::after {
   width: 100%;
   height: 100%;
 }
-.selected .menu-link::before {
+.selected .menuList__menuItem__menuLink::before {
   border-bottom-color: #5a5a5a;
   border-left-color: #5a5a5a;
   transition: height .3s, width .3s .3s;
 }
-.selected .menu-link::after {
+.selected .menuList__menuItem__menuLink::after {
   border-top-color: #5a5a5a;
   border-right-color: #5a5a5a;
   transition: height .3s, width .3s .3s;
 } 
-
-
-
-
-
 
 
 /* =====================
@@ -181,16 +155,6 @@ color: #2a2a2a;
   position: relative;
 }
 
-/* .gradient{
-  width: 100%;
-  height: 2rem;
-  background: linear-gradient(transparent, #e3f5fc);
-  position: absolute;
-  bottom: 0;
-
-} */
-
-
 .box{
   height: auto;
   padding: 0 0 7rem 0;  
@@ -203,15 +167,6 @@ color: #2a2a2a;
   justify-content: center; /* 横方向の中央揃え */
   flex-direction: column; /* 子要素の並びを上から下にする（要素の改行に対応） */
 }
-
-// .main-bg {
-//   background-image: url('../images/mg3.jpg');
-//   background-repeat: no-repeat;
-//   background-size: cover;
-//   background-position: center;
-//   z-index: -1;
-//   background-attachment: fixed;
-// }
 
 .main-bg {
     background: none;
@@ -265,7 +220,6 @@ color: #2a2a2a;
     }
     
 
-
 /* =====================
   main-bg
 ===================== */
@@ -278,11 +232,12 @@ color: #2a2a2a;
     margin-top: 4rem;
     width:50rem;
     }
-
-.hero-desc{
+    .hero-desc{
     color:#FFF;
      font-size:2.5rem;
     }
+
+
 
 
 
@@ -506,6 +461,9 @@ html {
   font-size: 1.2rem;
 }
 
+.skill-p{
+  font-size:1.2rem;
+}
 
 /* =====================
   work

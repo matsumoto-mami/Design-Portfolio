@@ -4,62 +4,76 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>PORTFOLIO</title>
+	<meta name="description" content="Web designer MAMI MATSUMOTO(松本真実)のポートフォリオサイトです。">
+	<title>MAMI MATSUMOTO design portfolio</title>
+
+<!-- Twitter card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@mame_ph">
+	<meta property="og:url" content="http://design.mami-matsumoto.com">
+	<meta property="og:title" content="MAMI MATSUMOTO portfolio">
+	<meta property="og:description" content="Webdesiner MAMI MATSUMOTOのポートフォリオサイトです。">
+	<meta property="og:image" content="http://design.mami-matsumoto.com/images/twitter-card.jpg">
+
+<!-- favicon -->
+	<link rel="shortcut icon" href="favicon.ico">
 
 <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
 <!-- slider CSS -->
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-
+  	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<!-- original CSS(コンパイル後) -->
 	<link rel="stylesheet" href="css/style.css">
 <!-- modaal CSS -->
 	<link rel="stylesheet" href="css/modaal.css">
-	
 <!--animate css-->	
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css" />
-	
 <!-- web font -->
 	<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
 	<link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/notosansjp.css">
-	
 <!-- fontawesome -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
-	
 </head>
 
 
 <body>
-
 <!-- ローダー -->
-<div id="loader-bg">
-	<div id="loading">
-		<img src="images/load.gif" alt="loading">
-	</div>
-</div><!-- //ローダー -->
-
+	<div id="loader-bg">
+		<div id="loading">
+			<img src="images/load.gif" alt="loading">
+		</div>
+	</div><!-- //ローダー -->
 
 <!-- ローダーの中身 -->
-<div id="main-contents">
-
-	<div class="wrapper">
+	<div id="main-contents">
+		<div class="wrapper">
 
 	<!-- header -->
 		<header class="w-100 pageheader">
 			<div class="container col-lg-6">
 			<nav class="nav w-100">
-				<ul class="menu-list w-100">
-					<li class="home menu-item menu-item-first"><a class="menu-link" href="#home">HOME</a></li>
-					<li class="about menu-item"><a class="menu-link" href="#about">ABOUT</a></li>
-					<li class="skill menu-item"><a class="menu-link"href="#skill">SKILL</a></li>
-					<li class="work menu-item"><a class="menu-link"href="#work">WORK</a></li>
-					<li class="contact menu-item"><a class="menu-link"href="#contact">CONTACT</a></li>
+				<ul class="menuList w-100">
+					<li class="home menuList__menuItem menuList__menuItemFirst">
+						<a class="menuList__menuItem__menuLink" href="#home">HOME</a>
+					</li>
+					<li class="about menuList__menuItem">
+						<a class="menuList__menuItem__menuLink" href="#about">ABOUT</a>
+					</li>
+					<li class="skill menuList__menuItem">
+						<a class="menuList__menuItem__menuLink" href="#skill">SKILL</a>
+					</li>
+					<li class="work menuList__menuItem">
+						<a class="menuList__menuItem__menuLink" href="#work">WORK</a>
+					</li>
+					<li class="contact menuList__menuItem">
+						<a class="menuList__menuItem__menuLink" href="#contact">CONTACT</a>
+					</li>
 				</ul>
 			</nav>
 		</div>
-			
 		</header><!-- //header -->
 		
 		<!--main-bg box-->
@@ -150,7 +164,7 @@
 						<img src="images/skill.svg" width="130" alt="skill">
 					</h2>
 
-					<div class="row col-11 mx-auto">
+					<div class="row col-12 mx-auto">
 						<div class="skill-item col-md-4 col-12 inview-box animated">
 							<div class="skill-title text-center mb-4 mb-sm-5">
 								Design
@@ -730,9 +744,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
-<!-- キャッシュさせない -->
-	<script src="js/nocache.js"></script>
 
 <!-- original js -->
 	<script src="js/script.js"></script>
