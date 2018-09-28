@@ -1,5 +1,11 @@
 // JavaScript Document
 
+$(function() {   //ロード中はコンテンツの高さをページの高さに合わせる
+    var h = $(window).height();
+    $('#main-contents').css('display','none');
+    $('#loader-bg ,#loading').height(h).css('display','block');
+});
+
 
 //ローダーJquery
 $(window).on('load',function(){  // ローディング画面をフェードアウトさせる
@@ -8,11 +14,7 @@ $(window).on('load',function(){  // ローディング画面をフェードア�
     });
 });
      
-$(function() {   //ロード中はコンテンツの高さをページの高さに合わせる
-    var h = $(window).height();
-    $('#main-contents').css('display','none');
-    $('#loader-bg ,#loading').height(h).css('display','block');
-});
+
 
 $(window).on('load',function() {  //全ての読み込みが完了したら実行する
     $('#loader-bg').delay(900).fadeOut(800);
