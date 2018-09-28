@@ -2,11 +2,11 @@
 
 
 //ローダーJquery
-window.onload = function(){  // ローディング画面をフェードアウトさせる
+$(window).on('load',function(){  // ローディング画面をフェードアウトさせる
     $(function() { 
         $("#loading").fadeOut();
     });
-};
+});
      
 $(function() {   //ロード中はコンテンツの高さをページの高さに合わせる
     var h = $(window).height();
