@@ -130,7 +130,7 @@
 						<div class="slider-wrapper">
 							<div class="slider" dir="rtl">
 							<!-- スライダーSVG画像埋め込み -->
-								<?php include('./svg.php'); ?>					
+								<?php include('./svg.php'); ?>				
 							</div><!-- slider -->
 
 							<div class="slider-caption">
