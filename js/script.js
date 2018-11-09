@@ -192,8 +192,8 @@
 				return "ART";
 			}else if($(".slick-current").hasClass("trip")){
 				return "TRAVEL";
-			}else if($(".slick-current").hasClass("manga")){
-				return "MANGA";
+			}else if($(".slick-current").hasClass("anime")){
+				return "ANIME";
 			}
 		}
 	});

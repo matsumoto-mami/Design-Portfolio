@@ -31,6 +31,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css" />
 <!-- web font -->
 	<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+	<!--<link href="https://fonts.googleapis.com/css?family=Oswald:300" rel="stylesheet">-->
 	<link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/notosansjp.css">
 <!-- fontawesome -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
@@ -52,7 +53,7 @@
 		<div class="wrapper">
 
 	<!-- header -->
-		<header class="w-100 pageheader">
+		<header class="w-100 pageheader EF">
 			<div class="container col-lg-6">
 			<nav class="nav w-100">
 				<ul class="menuList w-100">
@@ -110,7 +111,7 @@
 						</svg><!-- //svg-animation -->
 					</h1>
 
-					<P class="hero-desc text-center">Web Developer&nbsp;&amp;&nbsp;Designer</P>
+					<P class="hero-desc text-center EF">Web Designer&nbsp;&amp;&nbsp;Photographer</P>
 				</div><!-- //home-hero-text -->
 			</div><!--//main-bg-->
 			
@@ -133,7 +134,7 @@
 								<?php include('./svg.php'); ?>				
 							</div><!-- slider -->
 
-							<div class="slider-caption">
+							<div class="slider-caption EF">
 								I LOVE <span></span>
 							</div>
 
@@ -147,10 +148,17 @@
 							</div><!-- / #arrows -->
 						</div><!-- //slider-wrapper -->
 					</div><!-- //slider-container -->
+					
+					<h3 class="text-center w-100 mb-5">&nbsp;写真・映像・デザインスキルを活かし、<br>今を全力で生きるクリエイターになりたい。</h3>
 
 					<div class="row col-xl-8 col-lg-8 col-md-10 mx-auto text-left">
 						<p class="about-para">
-							こんにちは！私は旅するwebデザイナーを目指しています。現在はフリーランスフォトグラファーとして活動し、以前は帽子のデザイナーとして活動しておりました。未知のものと出会うことが好きで、面白そうなものは片っ端から挑戦してきました。そのおかげで、私には趣味や好きなものがたくさんあり、そこからモノづくりのインスピレーションを得ています。<br><br>また、私は青春が大好きです。まだ見ぬ素敵な方々と、一緒に面白いことをやりたいです。私の作るものを通じて、誰かの想いを届けたり、世界を少しでも幸せにできるよう、日々精進しております。
+							私は小さい頃から、新しいことに挑戦することが好きでした。自分の知らない未知のものと出会うことが面白く、将来は、好きなことに夢中になる人生を送りたいと思っていました。<br><br>
+							それからというもの、好きなことを見つける為、面白そうと思ったものは片っ端から挑戦してきました。その結果、私は趣味や好きなものをたくさん持つことができました。
+							音楽・ファッション・映像・写真・デザイン・アート。
+							共通していることは「ものづくり」でした。<br><br>
+
+							手法にとらわれないモノづくりをしていきたい。そんな思いを形にする為、写真・映像制作・Webデザインとコーディングを独学で学び、一生の仕事にしていけるよう、日々精進しています。
 						</p>
 					</div>
 				</div><!-- //container -->
@@ -164,16 +172,16 @@
 						<img src="images/skill.svg" width="130" alt="skill">
 					</h2>
 
-					<div class="row col-11 mx-auto">
+					<div class="row col-12 col-md-11 mx-auto">
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-5 mb-sm-5">
+							<div class="skill-title text-center mb-5 mb-sm-5 EF">
 								Design
 							</div>
 							<div class="skill-icon text-center mb-4 mb-sm-5">
-								<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 67.82 99"><defs><style>.cls-1{fill:#555656;}</style></defs><title>アセット 8</title><g id="レイヤー_2" data-name="レイヤー 2"><g id="レイヤー_1-2" data-name="レイヤー 1"><path class="cls-1" d="M33.91,99A34,34,0,0,1,0,65.09V33.91a33.91,33.91,0,0,1,67.82,0V65.09A34,34,0,0,1,33.91,99Zm0-96A31,31,0,0,0,3,33.91V65.09a30.91,30.91,0,0,0,61.82,0V33.91A31,31,0,0,0,33.91,3Z"/><path class="cls-1" d="M33.5,30.9a8.07,8.07,0,1,1,8.06-8.07A8.07,8.07,0,0,1,33.5,30.9Zm0-13.13a5.07,5.07,0,1,0,5.06,5.06A5.07,5.07,0,0,0,33.5,17.77Z"/></g></g></svg>
+								<svg id="レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 99.74 100"><defs><style>.cls-1{fill:#555656;}</style></defs><title>アートボード 2</title><path class="cls-1" d="M49.87,97A30.91,30.91,0,0,1,19,66.13V37.87a30.87,30.87,0,0,1,61.74,0V66.13A30.91,30.91,0,0,1,49.87,97Zm0-87A27.9,27.9,0,0,0,22,37.87V66.13a27.87,27.87,0,1,0,55.74,0V37.87A27.9,27.9,0,0,0,49.87,10Z"/><path class="cls-1" d="M49.5,35.28A7.45,7.45,0,1,1,57,27.83,7.46,7.46,0,0,1,49.5,35.28Zm0-11.9A4.45,4.45,0,1,0,54,27.83,4.46,4.46,0,0,0,49.5,23.38Z"/></svg>
 							</div><!-- //skill-icon -->
 							
-							<div class="skill-p mb-5 mb-sm-0">
+							<div class="skill-p mb-5 mb-sm-0 mt-5 mt-sm-0">
 								<p>ミニマリズムなデザインを好みます。余白を上手く使い、見やすく、使いやすいデザインを心がけています。タイポグラフィや配色には特にこだわっています。
 								ギャラリーサイトやPintarestなどのwebサイト、デザイン関連の書籍、雑誌からデザインをインプットすることを習慣としております。使用ソフトは/ Cacoo / PhotoshopCC / IllustratorCC / Abobe XDです。また、帽子や服、革製品などのモノづくりも行なっています。今後、LINEスタンプなどでのイラスト販売もしていきたいです。
 								</p>
@@ -182,7 +190,7 @@
 
 
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-5 mt-md-0 mt-5 mb-sm-5">
+							<div class="skill-title text-center mb-5 mt-md-0 mt-5 mb-sm-5 EF">
 								Cording
 							</div>
 							<div class="skill-icon text-center mb-4 mb-sm-5">
@@ -195,7 +203,7 @@
 						</div><!-- //skill-item -->
 
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-5 mb-sm-5 mt-md-0 mt-5">
+							<div class="skill-title text-center mb-5 mb-sm-5 mt-md-0 mt-5 EF">
 								Photo&nbsp;&amp;&nbsp;Video
 							</div>
 							<div class="skill-icon text-center mb-4 mb-sm-5">
@@ -204,7 +212,7 @@
 							<div class="skill-p mb-5 mb-sm-0">
 								<p>元々フリーランスフォトグラファーとして活動しているので、Webサイト制作の素材としては勿論、ウェディング前撮り撮影や広告撮影、PV・MV用の映像制作など幅広く対応できます。物語性のある作品を好みます。また、自宅にモノクロ暗室や可動式フォトスタジオも併設しています。主な使用機材はSony α7iii、使用ソフトはPhotoshopCC / LightroomCC / AftereffectCC / PremiereCCです。詳しくは下記リンクをご覧ください。<br>
 									<a href="http://mami-matsumoto.com/">
-										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
 											<i class="far fa-arrow-alt-circle-right">
 											</i>&ensp;Mami Matsumoto Photography
 										</button>
@@ -236,11 +244,11 @@
 								</figure>
 							</a>
 
-							<div class="title mt-2">
+							<div class="title mt-2 EF">
 								<p>MAMI&nbsp;MATSUMOTO&nbsp;photograpy</p>
 							</div>
 							<div class="tec">
-								<p class="w-100 mb-md-5">Website</p>
+								<p class="w-100 mb-md-5">Direction / Photo / Design / Cording</p>
 							</div>
 						</div><!-- //workitem -->
 
@@ -256,11 +264,11 @@
 									</figure>
 								</a>
 
-							<div class="title mt-2">
+							<div class="title mt-2 EF">
 								<p>ROOT&nbsp;BOX</p>
 							</div>
 							<div class="tec">
-								<p class="w-100 mb-md-5">Website</p>
+								<p class="w-100 mb-md-5">Direction / Photo / Design / Cording</p>
 							</div>
 						</div><!-- //workitem -->
 
@@ -276,11 +284,11 @@
 									</figure>
 								</a>
 
-							<div class="title mt-2">
+							<div class="title mt-2 EF">
 								<p>MAMI&nbsp;MATSUMOTO.com</p>
 							</div>
 							<div class="tec">
-								<p class="w-100 mb-md-5">Website</p>
+								<p class="w-100 mb-md-5">Direction / Photo / Design / Cording</p>
 							</div>
 						</div><!-- //workitem -->
 						
@@ -296,11 +304,11 @@
 									</figure>
 								</a>
 
-							<div class="title mt-2">
+							<div class="title mt-2 EF">
 								<p>PolePole</p>
 							</div>
 							<div class="tec">
-								<p class="w-100 mb-md-5">Website</p>
+								<p class="w-100 mb-md-5">Direction / Photo / Design / Cording</p>
 							</div>
 						</div><!-- //workitem -->
 
@@ -316,11 +324,11 @@
 									</figure>
 								</a>
 
-							<div class="title mt-2">
-								<p>東洋企画フライヤー</p>
+							<div class="title mt-2 EF">
+								<p>TO4 KIKAKU flyer</p>
 							</div>
 							<div class="tec">
-								<p class="w-100 mb-md-5">DTP</p>
+								<p class="w-100 mb-md-5">Photo</p>
 							</div>
 						</div><!-- //workitem -->
 
@@ -336,11 +344,11 @@
 									</figure>
 								</a>
 
-							<div class="title mt-2">
-								<p>イカストラップ</p>
+							<div class="title mt-2 EF">
+								<p>Squid Keyring</p>
 							</div>
 							<div class="tec">
-								<p class="w-100 mb-md-5">Product</p>
+								<p class="w-100 mb-md-5">Design / Leather work</p>
 							</div>
 						</div><!-- //workitem -->
 
@@ -356,11 +364,11 @@
 									</figure>
 								</a>
 
-							<div class="title mt-2">
-								<p>6枚ハギのボーラーハット</p>
+							<div class="title mt-2 EF">
+								<p>Borer Hat</p>
 							</div>
 							<div class="tec">
-								<p class="w-100 mb-md-5">Product</p>
+								<p class="w-100 mb-md-5">Design / Production</p>
 							</div>
 						</div><!-- //workitem -->
 							
@@ -383,7 +391,7 @@
 							</p>
 
 							<a href="mailto:mame4630&#64;gmail.com" class="d-block mx-auto mt-5">
-								<button type="button" class="btn btn-secondary pl-5 pr-5 btn-lg d-block mx-auto">
+								<button type="button" class="btn btn-secondary pl-5 pr-5 btn-lg d-block mx-auto EF">
 									<i class="fas fa-envelope"></i>&ensp;Messege me
 								</button>
 							</a>
