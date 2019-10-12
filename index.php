@@ -149,16 +149,15 @@
 						</div><!-- //slider-wrapper -->
 					</div><!-- //slider-container -->
 					
-					<h3 class="text-center w-100 mb-5">&nbsp;写真・映像・デザインスキルを活かし、<br>今を全力で生きるクリエイターになりたい。</h3>
+					<h3 class="text-center w-100 mb-5">「好奇心モンスター」松本真実、26歳。</h3>
 
 					<div class="row col-xl-8 col-lg-8 col-md-10 mx-auto text-left">
 						<p class="about-para">
 							私は小さい頃から、新しいことに挑戦することが好きでした。自分の知らない未知のものと出会うことが面白く、将来は、好きなことに夢中になる人生を送りたいと思っていました。<br><br>
-							それからというもの、好きなことを見つける為、面白そうと思ったものは片っ端から挑戦してきました。その結果、私は趣味や好きなものをたくさん持つことができました。
-							音楽・ファッション・映像・写真・デザイン・アート。
-							共通していることは「ものづくり」でした。<br><br>
+							それからというもの、好きなことを見つける為、面白そうと思ったものは片っ端から挑戦してきました。その結果、私は趣味や仕事、好きなものをたくさん持つことができました。 音楽・ファッション・映像・写真・デザイン・ライティング・アート・そして筋トレ。 共通していることは「何かを作り出すこと」でした。<br><br>
 
-							手法にとらわれないモノづくりをしていきたい。そんな思いを形にする為、写真・映像制作・Webデザインとコーディングを独学で学び、一生の仕事にしていけるよう、日々精進しています。
+							手法にとらわれないモノづくりをしていきたい。そんな思いで写真・映像制作・Webデザインとコーディングを独学で学び、現在フリーランスのフォトグラファー、webデザイナーとして関西で活動しています。
+
 						</p>
 					</div>
 				</div><!-- //container -->
@@ -182,8 +181,17 @@
 							</div><!-- //skill-icon -->
 							
 							<div class="skill-p mb-5 mb-sm-0 mt-5 mt-sm-0">
-								<p>ミニマリズムなデザインを好みます。余白を上手く使い、見やすく、使いやすいデザインを心がけています。タイポグラフィや配色には特にこだわっています。
-								ギャラリーサイトやPintarestなどのwebサイト、デザイン関連の書籍、雑誌からデザインをインプットすることを習慣としております。使用ソフトは/ Cacoo / PhotoshopCC / IllustratorCC / Abobe XDです。また、帽子や服、革製品などのモノづくりも行なっています。今後、LINEスタンプなどでのイラスト販売もしていきたいです。
+								<p>ミニマムなデザインを好みます。余白を上手く使い、見やすく、使いやすいデザインを心がけています。 使用ソフトは/ Cacoo / PhotoshopCC / IllustratorCC / Abobe XDです。
+									<br>また、帽子や服、革製品などのモノづくりも行なっています。
+								<br>
+								<br>
+								デザイン・ファッション・アートを古代の歴史から学ぶwebメディア「ROOTBOX」を運営しつつ、日々インプットを心がけています。<br>
+								<a href="https://open-rootbox.com/">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
+											<i class="far fa-arrow-alt-circle-right">
+											</i>&ensp;ROOTBOX
+										</button>
+									</a>
 								</p>
 							</div><!-- //skill-p -->
 						</div><!-- //skill-item -->
@@ -210,13 +218,31 @@
 								<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 98.99 74.26"><defs><style>.cls-1{fill:#555656;}</style></defs><title>アセット 7</title><g id="レイヤー_2" data-name="レイヤー 2"><g id="レイヤー_1-2" data-name="レイヤー 1"><path class="cls-1" d="M44.3,9.74h-3V3H14.19V9.73h-3V2.53A2.54,2.54,0,0,1,13.72,0h28A2.54,2.54,0,0,1,44.3,2.53Z"/><path class="cls-1" d="M94.65,74.26H4.33A4.33,4.33,0,0,1,0,69.93V12.26A4.33,4.33,0,0,1,4.33,7.93H94.65A4.34,4.34,0,0,1,99,12.26V69.93A4.34,4.34,0,0,1,94.65,74.26ZM4.33,10.93A1.34,1.34,0,0,0,3,12.26V69.93a1.34,1.34,0,0,0,1.33,1.33H94.65A1.34,1.34,0,0,0,96,69.93V12.26a1.34,1.34,0,0,0-1.34-1.33Z"/><rect class="cls-1" x="1.5" y="22.71" width="96" height="3" transform="translate(-0.05 0.1) rotate(-0.11)"/><path class="cls-1" d="M9.29,22.33a4.9,4.9,0,1,1,4.9-4.9A4.91,4.91,0,0,1,9.29,22.33Zm0-6.8a1.9,1.9,0,1,0,1.9,1.9A1.9,1.9,0,0,0,9.29,15.53Z"/><path class="cls-1" d="M89.54,22.76a5.12,5.12,0,1,1,5.12-5.11A5.12,5.12,0,0,1,89.54,22.76Zm0-7.23a2.12,2.12,0,1,0,2.12,2.12A2.12,2.12,0,0,0,89.54,15.53Z"/><path class="cls-1" d="M49.49,69.59a20.2,20.2,0,1,1,20.2-20.2A20.22,20.22,0,0,1,49.49,69.59Zm0-37.4a17.2,17.2,0,1,0,17.2,17.2A17.22,17.22,0,0,0,49.49,32.19Z"/><path class="cls-1" d="M49.49,65.77A16.38,16.38,0,1,1,65.87,49.39,16.4,16.4,0,0,1,49.49,65.77Zm0-29.76A13.38,13.38,0,1,0,62.87,49.39,13.4,13.4,0,0,0,49.49,36Z"/></g></g></svg>
 							</div><!-- //skill-icon -->
 							<div class="skill-p mb-5 mb-sm-0">
-								<p>元々フリーランスフォトグラファーとして活動しているので、Webサイト制作の素材としては勿論、ウェディング前撮り撮影や広告撮影、PV・MV用の映像制作など幅広く対応できます。物語性のある作品を好みます。また、自宅にモノクロ暗室や可動式フォトスタジオも併設しています。主な使用機材はSony α7iii、使用ソフトはPhotoshopCC / LightroomCC / AftereffectCC / PremiereCCです。詳しくは下記リンクをご覧ください。<br>
+								<p>フリーランスフォトグラファーとして、ウェディング前撮り撮影や広告撮影、PV・MV用の映像制作など幅広く活動しています。（株）Lovegraphでは最高ランクのフォトグラファーとして活動しています。物語性のある、映画のような世界観が好きで、ポートレートが得意です。また、自宅にモノクロ暗室や可動式フォトスタジオも併設しています。主な使用機材はSony α7iii、使用ソフトはPhotoshopCC / LightroomCC / AftereffectCC / PremiereCCです。<br>
+									<a href="https://www.instagram.com/mami_matsumoto_ph/">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
+											<i class="far fa-arrow-alt-circle-right">
+											</i>&ensp;Instagram
+										</button>
+									</a>
+
 									<a href="http://mami-matsumoto.com/">
 										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
 											<i class="far fa-arrow-alt-circle-right">
 											</i>&ensp;Mami Matsumoto Photography
 										</button>
 									</a>
+
+									<a href="https://lovegraph.me/photographers/mami-matsumoto">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
+											<i class="far fa-arrow-alt-circle-right">
+											</i>&ensp;LOVEGRAPH
+										</button>
+									</a>
+
+									
+
+
 								</p>
 							</div>
 						</div><!-- //skill-item -->
@@ -313,6 +339,87 @@
 						</div><!-- //workitem -->
 
 
+					<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal8" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work8.png" class="w-100" alt="work8">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Tapioka Website</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Wireframe</p>
+							</div>
+						</div><!-- //workitem -->
+
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal11" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work11.jpg" class="w-100" alt="work7">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Business Card (Photographer)</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Direction / Design / Production</p>
+							</div>
+						</div><!-- //workitem -->
+
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal12" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work12.jpg" class="w-100" alt="work12">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Business Card (Design Campany)</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Direction / Design / Production</p>
+							</div>
+
+						</div><!-- //workitem -->
+
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal16" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work12.jpg" class="w-100" alt="work16">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Business Card (Artist)</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Direction / Design / Production</p>
+							</div>
+							
+						</div><!-- //workitem -->
+
 						<div class="col-md-6 col-sm-12 work-item animated inview-box">
 
 								<a href="#modal5" class="modal-thumbnail">
@@ -331,6 +438,64 @@
 								<p class="w-100 mb-md-5">Photo</p>
 							</div>
 						</div><!-- //workitem -->
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal9" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work9.png" class="w-100" alt="work9">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Free Paper</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Design / Production</p>
+							</div>
+						</div><!-- //workitem -->
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal13" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work13.jpg" class="w-100" alt="work13">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Music Video</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Photograph / Edit</p>
+							</div>
+						</div><!-- //workitem -->
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal14" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work14.png" class="w-100" alt="work14">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Commercial Movie</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Edit</p>
+							</div>
+						</div><!-- //workitem -->
+
 
 
 						<div class="col-md-6 col-sm-12 work-item animated inview-box">
@@ -371,10 +536,52 @@
 								<p class="w-100 mb-md-5">Design / Production</p>
 							</div>
 						</div><!-- //workitem -->
+
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal10" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work10.png" class="w-100" alt="work10">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Native Dress</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Design / Production</p>
+							</div>
+						</div><!-- //workitem -->
+
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+
+								<a href="#modal15" class="modal-thumbnail">
+									<figure>
+										  <img src="images/work15.png" class="w-100" alt="work15">
+										<figcaption>
+									    	<p class="work-caption">View details ...</p>
+										</figcaption>
+									</figure>
+								</a>
+
+							<div class="title mt-2 EF">
+								<p>Crowd Funding Picture</p>
+							</div>
+							<div class="tec">
+								<p class="w-100 mb-md-5">Design</p>
+							</div>
+						</div><!-- //workitem -->
 							
 					</div><!-- //row -->
 				</div><!-- //container-fluid -->
 			</div><!--//work-->
+
+
+
 			
 			
 			
@@ -387,7 +594,11 @@
 						
 						<div class="row col-xl-8 col-lg-8 col-md-10 mx-auto text-center">
 							<p class="about-para">
-								もっといろんなことに挑戦していきたいと思っています。こんな私と一緒に面白いことしたいと思ってくれた方、是非メールください。また、素敵なデザイン事務所さんの元で修行したいと思っています。一生懸命働きます。よろしくお願いいたします！
+								この度、もっと自分を飛躍させたいと覚悟を決め、上京することにしました。
+
+素敵なデザイン事務所様の元で修行したいと思っております！一生懸命働きます！
+
+こんな私と面白いことがしたいと思ってくださった方、是非メールください！！
 							</p>
 
 							<a href="mailto:mame4630&#64;gmail.com" class="d-block mx-auto mt-5">
@@ -637,7 +848,7 @@
 	</div><!-- //modal4 -->
 
 
-	<!--modal4の中身-->
+	<!--modal5の中身-->
 	<div id="modal5" class="modal-none">
 
 		<h3 class="modal-project-title mb-5">
@@ -664,10 +875,10 @@
 		
 		
 
-	</div><!-- //modal4 -->
+	</div><!-- //modal5 -->
 
 
-	<!--modal4の中身-->
+	<!--modal6の中身-->
 	<div id="modal6" class="modal-none">
 
 		<h3 class="modal-project-title mb-5">
@@ -695,10 +906,10 @@
 		
 		
 
-	</div><!-- //modal4 -->
+	</div><!-- //modal6 -->
 
 
-	<!--modal4の中身-->
+	<!--modal7の中身-->
 	<div id="modal7" class="modal-none">
 
 		<h3 class="modal-project-title mb-5">
@@ -726,10 +937,255 @@
 		
 		
 
-	</div><!-- //modal4 -->
+	</div><!-- //modal7 -->
 
 
+	<!--modal8の中身-->
+	<div id="modal8" class="modal-none">
 
+		<h3 class="modal-project-title mb-5">
+			Tapioka website
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			新店オープンのタピオカドリンク屋さんのHPの制作をご依頼いただき、ワイヤーフレームを制作しました。気に入っていただいたのですが、諸事情があり、お店自体出すことを辞められてしまった為、ここまでの制作となりました。ダミー画像にスターバックスの写真を使用しています。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Photoshop
+			</p>
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+			</p>
+		</div><!--//modal-project-tool-->
+		
+		<a href="#">
+			<button type="button" class="btn btn-secondary pl-3 pr-3 mb-5">Coming Soon</button>
+		</a>
+
+		<img src="images/Tapioka/Tapioka-wireframe.png" alt="Tapioka-wireframe" class="w-100 mb-1">
+		
+	</div><!-- //modal8 -->
+
+
+		<!--modal9の中身-->
+	<div id="modal9" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Free Paper
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			関西で活動する音楽アーティスト「Charmant coco」の10周年記念ワンマンライブの際に配布する、お世話になった地元交野市のお店や人物を紹介するフリーペーパーを制作しました。
+			友人と２人で企業したベンチャー企業「zimotto」の初仕事でもありました。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Photoshop
+			</p>
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+			</p>
+		</div><!--//modal-project-tool-->
+		
+		<a href="#">
+			<button type="button" class="btn btn-secondary pl-3 pr-3 mb-5">Coming Soon</button>
+		</a>
+
+		<img src="images/Charmantcocopaper/charmantcocopaper.png" alt="CharmantcocoPaper" class="w-100 mb-1">
+		
+	</div><!-- //modal9 -->
+
+
+		<!--modal10の中身-->
+	<div id="modal10" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Native Dress
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			アフガニスタンの民族衣装をコンセプトとし、制作しました。胸元の刺繍はインドのビンテージテープを使用しています。生地は綿麻で、手洗い可能です。特にこだわったのはスカートのボリュームで、８枚萩を縫い合わせ、くるっと回ると、スカートが綺麗な円を描くようにこだわりました。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;麺50% 麻50%
+			</p>
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;インドのビンテージテープ
+			</p>
+		</div><!--//modal-project-tool-->
+		
+		<img src="images/Dress/Dress1.png" alt="Dress1" class="w-100 mb-1">
+		<img src="images/Dress/Dress2.png" alt="Dress2" class="w-100 mb-1">
+		<img src="images/Dress/Dress3.jpg" alt="Dress3" class="w-100 mb-1">
+		<img src="images/Dress/Dress4.jpg" alt="Dress4" class="w-100">
+
+	</div><!-- //modal10 -->
+
+
+	<!--modal11の中身-->
+	<div id="modal11" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Business Card (Photographer)
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			私の写真家としての名刺を制作しました。表面は、チェキの写真を思わせるようにデザインし、メインビジュアルには、私の作品である太陽の写真を選びました。写真展に常備させておくことが多い為、裏面には手に取ってくれた人にストレスなくSNSに誘導させたかった為、InstagramとTwitterのQRコードを記載しました。写真家ということがすぐわかるよう、カメラのアイコンを一番上に配置しています。紙質は柔らかく、クリエイティブなものが良かった為、アラベールのスノーホワイトを選びました。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Photoshop
+			</p>
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+			</p>
+		</div><!--//modal-project-tool-->
+		
+
+		<img src="images/Card-photo/Card1.jpg" alt="Card1" class="w-100 mb-1">
+		<img src="images/Card-photo/Card2.jpg" alt="Card2" class="w-100 mb-1">
+		
+	</div><!-- //modal11 -->
+
+
+	<!--modal12の中身-->
+	<div id="modal12" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Business Card (Design Campany)
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			友人と起業したweb制作会社「zimotto」の名刺を作成しました。株式会社なのでかっちりした感じを出しながらも、女性２人の企業ということで、優しさを出す為、紙はマット紙を選びました。表面には２人の地元、枚方の河川で撮影した２人の後ろ姿を使用し、裏面はわかりやすくデザインすることを心がけました。親しみやすさを込めて、名前の横にはあだ名を記載しています。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Photoshop
+			</p>
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+			</p>
+		</div><!--//modal-project-tool-->
+		
+
+		<img src="images/Card-zimotto/Card1.jpg" alt="Card1" class="w-100 mb-1">
+		<img src="images/Card-zimotto/Card2.jpg" alt="Card2" class="w-100 mb-1">
+		
+	</div><!-- //modal12 -->
+
+
+	<!--modal13の中身-->
+	<div id="modal13" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Music Video 
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			関西で活動する音楽アーティスト「Charmant coco」の楽曲「友として」のMusic Videoを制作しました。Sonyα7iiiで撮影し、PremiereCCを使って編集しました。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Photoshop
+			</p>
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;PremiereCC
+			</p>
+		</div><!--//modal-project-tool-->
+		
+		    <iframe width="688" height="387" class="w-100 mb-1" src="https://www.youtube.com/embed/ZoUSndcsi3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+	</div><!-- //modal13 -->
+
+
+<!--modal14の中身-->
+	<div id="modal14" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Commercial Movie
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			美術家「YukawaNakayasu」の台湾での展示「生命の甘甜 The sweetness of life」の作品に使用するコマーシャルムービーを制作しました。
+			編集にはAfterEffectを使用しています。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+			</p>
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;After Effect
+			</p>
+		</div><!--//modal-project-tool-->
+			<img src="images/CM/CM.jpg" alt="CM" class="w-100 mb-1">
+
+		    <video class="w-100 mb-1" src="images/CM/CM.mp4" controls>
+				<p>動画を再生するにはvideoタグをサポートしたブラウザが必要です。</p>
+			</video>
+
+	</div><!-- //modal14 -->
+
+	<!--modal15の中身-->
+	<div id="modal15" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Crowd Funding Picture
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			オンラインサロン「前田デザイン室」、モザイクパンツプロジェクトのクラウドファンディングに使用する画像を制作しました。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+			</p>
+			
+		</div><!--//modal-project-tool-->
+			
+			<p>coming soon...........</p>
+
+	</div><!-- //modal15 -->
+
+	<!--modal16の中身-->
+	<div id="modal16" class="modal-none">
+
+		<h3 class="modal-project-title mb-5">
+			Business Card (Artist)
+		</h3><!--//modal-project-->
+		
+		<div class="modal-project-about mb-5">
+			アクセサリー・小物ブランド「１日」の名刺を制作しました。
+
+		</div><!--//modal-project-about-->
+		
+		<div class="modal-project-tool mb-5">
+			<p class="tool-item">
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+			</p>
+			
+		</div><!--//modal-project-tool-->
+			
+			<p>Coming soon.............</p>
+
+	</div><!-- //modal16 -->
 
 
 
