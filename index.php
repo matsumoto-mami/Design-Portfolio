@@ -169,13 +169,13 @@
 			<!--skill box-->
 			<div class="skill box">
 				<div class="container-fluid w-90">
-					<h2 id="skill" class="section-title mb-5" data-color="#c9d6de">
+					<h2 id="skill" class="section-title" data-color="#c9d6de">
 						<img src="images/skill.svg" width="130" alt="skill">
 					</h2>
 
 					<div class="row o-3colimn col-12 col-md-10 mx-auto">
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-5 mb-sm-4">
+							<div class="skill-title text-center mb-5 mb-sm-4 mt-5">
 								<img src="images/design.png" class="skill-icon"><br>
 								<div class="mt-5 mt-sm-4 tape">
 									Design
@@ -202,7 +202,7 @@
 
 
 						<div class="skill-item col-md-4 col-12 inview-box animated">
-							<div class="skill-title text-center mb-5 mb-sm-4">
+							<div class="skill-title text-center mb-5 mb-sm-4 mt-5">
 								<img src="images/cording.png" class="skill-icon"><br>
 								<div class="mt-5 mt-sm-4 tape">
 									Cording
@@ -219,7 +219,7 @@
 
 						<div class="skill-item col-md-4 col-12 inview-box animated">
 							
-							<div class="skill-title text-center mb-5 mb-sm-4">
+							<div class="skill-title text-center mb-5 mb-sm-4 mt-5">
 								<img src="images/photo.png" class="skill-icon"><br>
 								<div class="mt-5 mt-sm-4 tape">
 									Photo&nbsp;&amp;&nbsp;Video
