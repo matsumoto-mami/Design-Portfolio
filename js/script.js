@@ -125,7 +125,7 @@
 	$(function(){
 			var slick = $('.slider').slick({
 			autoplay: true,//自動再生
-			autoplaySpeed: 2000,//自動再生スピード
+			autoplaySpeed: 800,//自動再生スピード
 			slidesToShow: 3,//スライド数
 			centerMode: true,//.currentが真ん中に来るようにする。
 			centerPadding: '150px',

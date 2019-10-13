@@ -43,6 +43,8 @@ a:hover {
 text-decoration: none;
 }
 
+
+
 /* =====================
   loading
 ===================== */
@@ -249,6 +251,17 @@ text-decoration: none;
   about
 ===================== */
 
+.about-title{
+  font-weight:400;
+  background: linear-gradient(transparent 70%, #C9D5DE 50%);
+  display: inline-block;
+  text-align:center;
+  letter-spacing:0.2rem;
+}
+
+
+
+
 /* スライダー */
 .slider-wrapper{
   /* overflow: hidden; */
@@ -295,6 +308,7 @@ margin: 1rem 0;
 
 .about-para{
   font-size: 1.2rem;
+  font-family: "游ゴシック体", YuGothic;
 }
 
 h3{
@@ -309,11 +323,15 @@ h3{
   .skill-item{
     opacity: 0;
     .skill-title{
-      font-size: 2rem;
+      font-size: 1rem;
+      font-weight:700;
+      letter-spacing:0.2rem;
     }
     .skill-p{
       font-size:0.9rem;
       line-height:1.6rem;
+      font-family: "游ゴシック体", YuGothic;
+
 
     }
     .img-skill{
@@ -322,8 +340,18 @@ h3{
   }
 }
 
+.skill-icon{
+  width:80%;
+}
 
+.o-3colimn .col-md-4 { padding: 0 2rem;}
 
+.tape{
+  background: linear-gradient(transparent 60%, #C1E5F6 50%);
+  display: inline-block;
+  text-align:center;
+  letter-spacing:0.2rem;
+}
 
 /* =====================
   work
@@ -479,7 +507,7 @@ html {
 .skill{ 
   .skill-item{
     .skill-title{
-      font-size: 2.5rem;
+      font-size: 1.5rem;
     }
     .skill-p{
    font-size:1.2rem;
@@ -490,6 +518,10 @@ html {
 
 h3{
  font-size:1.5rem;
+}
+
+.skill-icon{
+  width:50%;
 }
 
 
