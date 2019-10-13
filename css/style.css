@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  font-family: 'Noto Sans JP';
+  font-family: 'Noto Sans JP' ,'Hiragino Kaku Gothic ProN' , 'メイリオ' , sans-serif;
   font-weight: 300;
   background-color: #ffffff;
   color: #2a2a2a;
@@ -250,7 +250,7 @@ a:hover {
 /* スライダー終わり*/
 .about-para {
   font-size: 1.2rem;
-  font-family: "游ゴシック体", YuGothic; }
+  font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif; }
 
 h3 {
   font-weight: 300;
@@ -270,7 +270,7 @@ h3 {
     .skill .skill-item .skill-p {
       font-size: 0.9rem;
       line-height: 1.6rem;
-      font-family: "游ゴシック体", YuGothic; }
+      font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif; }
     .skill .skill-item .img-skill {
       fill: #555555; }
 
@@ -402,7 +402,7 @@ figure:hover figcaption {
     font-size: 1.5rem; }
 
   .skill-icon {
-    width: 50%; }
+    width: 70%; }
 
   /* =====================
     work
