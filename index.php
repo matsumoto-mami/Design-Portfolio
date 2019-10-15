@@ -189,7 +189,7 @@
 								<br>
 								デザイン・ファッション・アートを古代の歴史から学ぶwebメディア「ROOTBOX」を運営しつつ、日々インプットを心がけています。<br>
 								<a href="https://open-rootbox.com/">
-										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3">
 											<i class="far fa-arrow-alt-circle-right">
 											</i>&ensp;ROOTBOX
 										</button>
@@ -225,21 +225,21 @@
 							<div class="skill-p mb-5 mb-sm-0">
 								<p>フリーランスフォトグラファーとして、ウェディング前撮り撮影や広告撮影、PV・MV用の映像制作など幅広く活動しています。（株）Lovegraphでは最高ランクのフォトグラファーとして活動しています。物語性のある、映画のような世界観が好きで、ポートレートが得意です。また、自宅にモノクロ暗室や可動式フォトスタジオも併設しています。主な使用機材はSony α7iii、使用ソフトはPhotoshopCC / LightroomCC / AftereffectCC / PremiereCCです。<br>
 									<a href="https://www.instagram.com/mami_matsumoto_ph/">
-										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3">
 											<i class="far fa-arrow-alt-circle-right">
 											</i>&ensp;Instagram
 										</button>
 									</a>
 
 									<a href="http://mami-matsumoto.com/">
-										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3">
 											<i class="far fa-arrow-alt-circle-right">
 											</i>&ensp;Mami Matsumoto Photography
 										</button>
 									</a>
 
 									<a href="https://lovegraph.me/photographers/mami-matsumoto">
-										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3 EF">
+										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3">
 											<i class="far fa-arrow-alt-circle-right">
 											</i>&ensp;LOVEGRAPH
 										</button>
@@ -404,7 +404,7 @@
 						</div><!-- //workitem -->
 
 
-						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+						<!-- <div class="col-md-6 col-sm-12 work-item animated inview-box">
 
 								<a href="#modal16" class="modal-thumbnail">
 									<figure>
@@ -420,9 +420,9 @@
 							</div>
 							<div class="tec">
 								<p class="w-100 mb-md-5">Direction / Design / Production</p>
-							</div>
+							</div> -->
 							
-						</div><!-- //workitem -->
+						<!-- </div> --><!-- //workitem -->
 
 						<div class="col-md-6 col-sm-12 work-item animated inview-box">
 
