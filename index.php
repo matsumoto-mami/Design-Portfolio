@@ -404,11 +404,11 @@
 						</div><!-- //workitem -->
 
 
-						<!-- <div class="col-md-6 col-sm-12 work-item animated inview-box">
+						<div class="col-md-6 col-sm-12 work-item animated inview-box">
 
 								<a href="#modal16" class="modal-thumbnail">
 									<figure>
-										  <img src="images/work12.jpg" class="w-100" alt="work16">
+										  <img src="images/work16.png" class="w-100" alt="work16">
 										<figcaption>
 									    	<p class="work-caption">View details ...</p>
 										</figcaption>
@@ -416,13 +416,13 @@
 								</a>
 
 							<div class="title mt-2 EF">
-								<p>Business Card (Artist)</p>
+								<p>Shop Card</p>
 							</div>
 							<div class="tec">
 								<p class="w-100 mb-md-5">Direction / Design / Production</p>
-							</div> -->
+							</div> 
 							
-						<!-- </div> --><!-- //workitem -->
+						</div> <!-- //workitem -->
 
 						<div class="col-md-6 col-sm-12 work-item animated inview-box">
 
@@ -561,7 +561,7 @@
 							</div>
 						</div><!-- //workitem -->
 
-						<div class="col-md-6 col-sm-12 work-item animated inview-box">
+				<!-- 		<div class="col-md-6 col-sm-12 work-item animated inview-box">
 
 								<a href="#modal15" class="modal-thumbnail">
 									<figure>
@@ -578,7 +578,7 @@
 							<div class="tec">
 								<p class="w-100 mb-md-5">Design</p>
 							</div>
-						</div><!-- //workitem -->
+						</div>< --><!-- //workitem -->
 							
 					</div><!-- //row -->
 				</div><!-- //container-fluid -->
@@ -1177,7 +1177,8 @@
 		</h3><!--//modal-project-->
 		
 		<div class="modal-project-about mb-5">
-			アクセサリー・小物ブランド「１日」の名刺を制作しました。
+			ハンドメイドアクセサリー・小物ブランド「１日」の名刺を制作しました。キービジュアルには、ブランドによく使われているアクリル絵の具のデザインを使用。
+			手作り感の中にもどこか洗練されているような雰囲気になるよう、行間やフォント選定に時間をかけました。
 
 		</div><!--//modal-project-about-->
 		
@@ -1188,7 +1189,8 @@
 			
 		</div><!--//modal-project-tool-->
 			
-			<p>Coming soon.............</p>
+				<img src="images/Card-ichinichi/card1.png" alt="Card1" class="w-100 mb-1">
+				
 
 	</div><!-- //modal16 -->
 

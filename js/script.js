@@ -223,19 +223,19 @@ $(function() {
 });
 
 
-var number = 10;
+// var number = 10;
 
-var x = 10; //number=10 x=10
-var y = 11; //number=10 x=10 y=11
-number = 20; //number=20 x=10 y=11 
-var w = x;// number=20 x=10 y=11 w=10
+// var x = 10; //number=10 x=10
+// var y = 11; //number=10 x=10 y=11
+// number = 20; //number=20 x=10 y=11 
+// var w = x;// number=20 x=10 y=11 w=10
 
-function x() { //number=10
-	return number;
-}
-var y = 1 + x(); //number=10 y=11
-number = 20; //number=20 y=11
-var w = x(); //number=20 y=11 w=20
+// function x() { //number=10
+// 	return number;
+// }
+// var y = 1 + x(); //number=10 y=11
+// number = 20; //number=20 y=11
+// var w = x(); //number=20 y=11 w=20
 
 
 
