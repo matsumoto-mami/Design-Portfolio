@@ -1153,17 +1153,29 @@
 		
 		<div class="modal-project-about mb-5">
 			オンラインサロン「前田デザイン室」、モザイクパンツプロジェクトのクラウドファンディングに使用する画像を制作しました。
+			テーマは「ポップアート」で、撮影からデザインまで担当致しました。
+			清潔感が出るよう、陰影を敢えてつけず、フラットな見え方になるようライティングし撮影しました。
+			よりポップ感が出るように蛍光色を使った配色にし、クラウドファウンディングのキービジュアルとしては珍しく、説明を全て省き、
+			ビジュアルのみで勝負しています。
+
+
 
 		</div><!--//modal-project-about-->
 		
 		<div class="modal-project-tool mb-5">
 			<p class="tool-item">
 				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
+				<i class="fas fa-check-circle my-gray"></i>&ensp;Photograph
 			</p>
-			
 		</div><!--//modal-project-tool-->
-			
-			<p>coming soon...........</p>
+
+		<a href="https://camp-fire.jp/projects/view/196902">
+			<button type="button" class="btn btn-secondary pl-3 pr-3 mb-5">LIVE</button>
+		</a>
+
+		<img src="images/Mozapan/1.png" alt="モザイクパンツキービジュアル" class="w-100 mb-1">
+		<img src="images/Mozapan/2.png" alt="モザイクパンツタイトルバー" class="w-100 mb-1">
+		<img src="images/Mozapan/3.png" alt="モザイクパンツリターン画像" class="w-100 mb-1">
 
 	</div><!-- //modal15 -->
 
@@ -1185,6 +1197,7 @@
 				<i class="fas fa-check-circle my-gray"></i>&ensp;Illustrator
 			</p>
 			
+
 		</div><!--//modal-project-tool-->
 			
 				<img src="images/Card-ichinichi/card1.png" alt="Card1" class="w-100 mb-1">
