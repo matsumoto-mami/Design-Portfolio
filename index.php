@@ -224,7 +224,7 @@
 							
 							<div class="skill-p mb-5 mb-sm-0">
 								<p>フリーランスフォトグラファーとして、ウェディング前撮り撮影や広告撮影、PV・MV用の映像制作など幅広く活動しています。（株）Lovegraphでは最高ランクのフォトグラファーとして活動しています。物語性のある、映画のような世界観が好きで、ポートレートが得意です。また、自宅にモノクロ暗室や可動式フォトスタジオも併設しています。主な使用機材はSony α7iii、使用ソフトはPhotoshopCC / LightroomCC / AftereffectCC / PremiereCCです。<br>
-									<a href="https://www.instagram.com/mami_matsumoto_ph/">
+									<a href="https://www.instagram.com/omame_creator/">
 										<button type="button" class="btn btn-secondary pl-3 pr-3 mt-3">
 											<i class="far fa-arrow-alt-circle-right">
 											</i>&ensp;Instagram
